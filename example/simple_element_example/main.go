@@ -8,9 +8,9 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/rohanthewiz/element"
-	"github.com/rohanthewiz/rweb"
-	"github.com/rohanthewiz/serr"
+	"github.com/go-element/element"
+	"github.com/go-rweb/rweb"
+	"github.com/go-serr/serr"
 )
 
 func main() {

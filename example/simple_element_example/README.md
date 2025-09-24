@@ -1,6 +1,6 @@
 ## Example project for Element
 
-We'll use the super-fast, RWeb (github.com/rohanthewiz/rweb) for routing.
+We'll use the super-fast, RWeb (github.com/go-rweb/rweb) for routing.
 
 ### To Get Going
 1. Change to the examples directory and run `go mod tidy`

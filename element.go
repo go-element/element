@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rohanthewiz/serr"
+	"github.com/go-serr/serr"
 )
 
 type Element struct {

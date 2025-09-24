@@ -70,7 +70,7 @@ Simply create an element and render it:
 ## Example
 
 We use short method names and some aliases to keep the code as unobtrusive as possible.
-**See the example:** https://github.com/rohanthewiz/element/tree/master/example/simple_element_example for a full, ready-to-compile example app.
+**See the example:** https://github.com/go-element/element/tree/master/example/simple_element_example for a full, ready-to-compile example app.
 
 ```go
 package main
@@ -79,9 +79,9 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/rohanthewiz/element"
-	"github.com/rohanthewiz/rweb"
-	"github.com/rohanthewiz/serr"
+	"github.com/go-element/element"
+	"github.com/go-rweb/rweb"
+	"github.com/go-serr/serr"
 )
 
 func main() {
@@ -321,7 +321,7 @@ Here's what the formatted output can look like:
 - Enjoy the full power and freedom of Go, say goodbye to the jungle of the Frontend!
 
 ## Enabling debugging
-- Example uses rweb - `go get github.com/rohanthewiz/rweb`
+- Example uses rweb - `go get github.com/go-rweb/rweb`
 
 ### Turn Element debugging on
 

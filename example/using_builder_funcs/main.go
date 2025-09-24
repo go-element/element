@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/rohanthewiz/element"
-	"github.com/rohanthewiz/rweb"
+	"github.com/go-element/element"
+	"github.com/go-rweb/rweb"
 )
 
 // Pickup our styles from the styles.css file

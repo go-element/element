@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/rohanthewiz/element"
-	"github.com/rohanthewiz/rweb"
+	"github.com/go-element/element"
+	"github.com/go-rweb/rweb"
 )
 
 func main() {
